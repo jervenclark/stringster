@@ -1,0 +1,24 @@
+{
+  "name": "stringster",
+  "version": "0.0.0",
+  "description": "String case helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jervenclark@github.com/myrith/stringster.git"
+  },
+  "keywords": [
+    "string",
+    "case",
+    "helper"
+  ],
+  "author": "Jerven Clark Chua <jervenclark@gmail.com> (http://jervenclarkchua.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myrith/stringster/issues"
+  },
+  "homepage": "https://github.com/myrith/stringster#readme"
+}
