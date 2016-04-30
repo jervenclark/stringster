@@ -1,0 +1,2 @@
+# stringster
+String case helper
